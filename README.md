@@ -30,10 +30,10 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Microverse </b></h3>
 
 </div>
 
@@ -287,6 +287,6 @@ I would like to thank...
 This project is [MIT](./LICENSE) licensed.
 
 
-
+git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
