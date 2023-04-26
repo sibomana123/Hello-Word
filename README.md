@@ -1,37 +1,162 @@
-# Hello Mcroverse
+<a name="readme-top"></a>
 
+<div align="center">
+  <br/>
 
+  <h3><b>Hello Microverse Project</b></h3>
 
-<!-- PROJECT DESCRIPTION -->
+</div>
 
-# 📖 Pull Request project <a name="about-project"></a>
+# 📗 Table of Contents
 
- This project is a biginner project for Microverse.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
+# 📖 [HelloWorld-Microverse] <a name="about-project"></a>
 
-## 🛠 Built With 
+**[HelloWorld-Microverse]** is a project to make Micronauts learn about linters configurations and other project initial settings.
 
-This project Bluid in 
-1:Html
-2:Css
+## 🛠 Built With <a name="built-with"></a>
 
+html, css, git, github and linters.
 
-## 💻 Getting Started
+### Tech Stack <a name="tech-stack"></a>
 
-If you want to use this project you can clone it in your terminal command 
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.microverse.org/">HTML5</a></li>
+    <li><a href="https://www.microverse.org/">CSS3</a></li>
+  </ul>
+</details>
 
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">VS CODE Live Server Extension</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- **[Best Practices]**
+- **[Clean Coded]**
+- **[Extendable and flexable]**
+
+In this project best coding practices is use
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+1. Go to this URL link: https://github.com/sibomana123/Hello-Word
+2. clone the repo and start working on it.
+
+### Prerequisites
+
+In order to run this project you need:
+
+Google Chrome or other browser
+
+```sh
+  https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjw9J2iBhBPEiwAErwpeSDcMFWiIQWj2u5GY6owZ7OaOHw7dYYCHW7uTR4kvYosNJYd4wt4VxoCiywQAvD_BwE&gclsrc=aw.ds
 ```
-$ git clone git@github.com:sibomana123/Hello-Word.git
 
-$ pwd to see the path your current directory
+Github Account:
 
+```sh
+  https://github.com/
+```
 
-Then open index.html in your browser
+Npm installed:
 
-````
+```sh
+  https://nodejs.org/en/download
+```
 
+Git installed:
 
-##Author
+```sh
+  https://git-scm.com/downloads/
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone git@github.com:sibomana123/Hello-Word.git
+```
+
+### Install
+
+Install this project with:
+
+Linters:
+
+Lighthouse run:
+
+```sh
+  npm install -g @lhci/cli@0.7.x
+```
+
+Webhint run
+
+```sh
+ npm install --save-dev hint@7.x
+```
+
+StyleLint run:
+
+```sh
+ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  cd HelloWorld-Microverse
+  index.html
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+to check for styling errors:
+
+```sh
+  npx stylelint "**/*.{css,scss}"
+```
+
+### Deployment
+
+You can deploy this project using:
+
+Your working browser.
+
+## 👥 Authors <a name="authors"></a>
+
 👤 **Emmanuel**
 
 - GitHub:https://github.com/sibomana123
@@ -44,28 +169,16 @@ Contributions, issues, and feature requests are welcome!
 
 
 
-## ⭐️ Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-> Write a message to encourage readers to support your project
+## ⭐️ Show your support <a name="support"></a>
 
-If you like this project let me know, give me Star😀
+If you like this project, don't forget to star.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 📝 License <a name="license"></a>
 
-<!-- ACKNOWLEDGEMENTS -->
+This project is [MIT](./MIT.md) licensed.
 
-## 🙏 Acknowledgments 
-
-
-I would like to thank Microverve give me basic knowldge to make this project
-
-
-<!-- LICENSE -->
-
-## 📝 License 
-
-This project is [MIT](./LICENSE) licensed.
-
-
-
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
